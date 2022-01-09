@@ -1,0 +1,14 @@
+#For scraping
+requests_html
+requests
+asyncio
+pause
+datetime
+argparse
+aiohttp
+asyncio
+twitchAPI
+#For building and analysing the network
+matplotlib
+networkx
+numpy
