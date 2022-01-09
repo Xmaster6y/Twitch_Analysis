@@ -6,7 +6,8 @@ This repository was refactorized to be lighter (with compressed files).
 ## Read Before Using
 
 For all the files (python and notebook) to run properly you should first unzip
-the files `graphs.zip` and `Streamers_fr_1D.zip` see git-lfs for `Streamers_fr_1W.zip`
+the files `graphs.zip`, `Streamers_fr_1D.zip` and `Streamers_fr_1W.zip` see
+git-lfs for retrieving them.
 
 ## Gathering the Network Information
 
