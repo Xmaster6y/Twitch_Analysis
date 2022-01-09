@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+**/first_dump.json
+secret.*
+G_streamers_viewers_one_time_link.graphml
+*.graphml
+Streamer_fr/*
+*.gephi
