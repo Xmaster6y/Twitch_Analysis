@@ -5,9 +5,14 @@ This repository was refactorized to be lighter (with compressed files).
 
 ## Read Before Using
 
-For all the files (python and notebook) to run properly you should first unzip
+- For all the files (python and notebook) to run properly you should first unzip
 the files `graphs.zip`, `Streamers_fr_1D.zip` and `Streamers_fr_1W.zip` see
-git-lfs for retrieving them.
+git-lfs for retrieving them.*
+
+- Make a directory `Streamer_fr` in which the data from the requests will be
+  dumped. If you want another name of directory do not forget to change the
+  variables in the python files.
+
 
 ## Gathering the Network Information
 
