@@ -6,8 +6,7 @@ This repository was refactorized to be lighter (with compressed files).
 ## Read Before Using
 
 For all the files (python and notebook) to run properly you should first unzip
-the files `graphs.zip`, `Streamers_fr_1D.zip`, `Streamers_fr_1W.zip` and
-`images.zip`
+the files `graphs.zip`, `Streamers_fr_1D.zip` and `Streamers_fr_1W.zip`
 
 ## Gathering the Network Information
 
@@ -46,6 +45,11 @@ By default it runs for a complete day and store the results in the folder `Strea
 
 The file `scrape_streams.py` is used to scrape the Twitchtracker website.
 - :warning: modularity is not guaranteed.
+
+## [Data Gathered](./Streamer_fr_1D.zip)
+
+Contains the data of streamers for one given day. See the notebook for more
+inforamation.
 
 ### [Building the Network](./build_network.py)
 
