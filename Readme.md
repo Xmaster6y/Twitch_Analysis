@@ -40,7 +40,7 @@ memory costly.
 Visualisation results can be found in the folder [./images](./images), here is
 one:
 
-[One day graph](./images/1D.png)
+![One day graph](./images/1D.png)
 
 ## Flow Over Time
 
