@@ -4,7 +4,7 @@
 secret.*
 G_streamers_viewers_one_time_link.graphml
 *.graphml
-Streamers_fr*
+Streamers_fr*/*
 !Streamers_fr/.gitkeep
 graphs
 *.gephi
