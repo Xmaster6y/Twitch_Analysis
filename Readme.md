@@ -35,6 +35,13 @@ a given amount of time. The more viewers the more stronger the links.
 memory costly.
 
 
+## Results
+
+Visualisation results can be found in the folder [./images](./images), here is
+one:
+
+[One day graph](./images/1D.png)
+
 ## Flow Over Time
 
 Another study could be on the time point of view and the flow of viewers. We try
