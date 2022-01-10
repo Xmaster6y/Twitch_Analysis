@@ -4,7 +4,7 @@
 secret.*
 G_streamers_viewers_one_time_link.graphml
 *.graphml
-Streamer_fr/
-Streamer_fr_*/
+Streamer_fr
+Streamer_fr_*
 graphs
 *.gephi
